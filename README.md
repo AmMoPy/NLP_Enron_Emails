@@ -12,13 +12,15 @@ The dataset does not include attachments, and some messages have been deleted.
 
 Given the size of available data, it can be overwhelming to explore and identify potential useful pieces of evidence or clues. This project is intended to explore programmatic methods that can be used to facilitate data exploration and further analysis in a large scale Fraud investigation using **real data**. 
 
-
 Along the way there are also some useful NLP and other methods deployed here that have general application, for example:
 - Comparing content of text files through hashing
 - Identifying unique and recurring words
 - Text summarization using deep learning models
 - Creating word cloud :D
 
+### Disclaimer: 
+
+This project is for demonstration purpose only and is not intended to draw conclusion whatsoever; detailed content of the emails will not be displayed despite the fact that it is publicly available elsewhere. 
 
 ### Resources:
 
