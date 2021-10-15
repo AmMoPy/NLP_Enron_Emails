@@ -10,7 +10,7 @@ The dataset does not include attachments, and some messages have been deleted.
 
 ### Project Motivation:
 
-Given the size of available data, it can be overwhelming to explore and identify potential useful pieces of evidence or clues. This project is intended to explore programmatic methods that can be used to facilitate data exploration and further analysis in a large scale Fraud investigation using **real data**. 
+Given the size of available data, it can be overwhelming to explore and identify potential useful pieces of evidence or clues. This project is demonstrating one way of implementing Natural Language Processing (NLP) and programmatic data extraction in a large scale fraud investigation, using **real data**. 
 
 Along the way there are also some useful NLP and other methods deployed here that have general application, for example:
 - Comparing content of text files through hashing
