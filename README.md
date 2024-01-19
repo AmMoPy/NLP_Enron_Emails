@@ -24,6 +24,8 @@ This project is for demonstration purpose only and is not intended to draw concl
 
 ### Resources:
 
- - [Kaggle](https://www.kaggle.com/wcukierski/enron-email-dataset)
+ - [Data](https://www.kaggle.com/wcukierski/enron-email-dataset)
  - [Wikipedia](https://en.wikipedia.org/wiki/Enron_Corpus)
  - [Hugging Face - transformers](https://huggingface.co/transformers/)
+
+[Check my YT Channel](https://youtube.com/@ammopy)
